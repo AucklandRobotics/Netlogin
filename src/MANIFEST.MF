@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: . JNetLogin_patched.jar
+Created-By: 1.6.0_12 (Sun Microsystems Inc.)
+Main-Class: NetLogin
+
