@@ -1,1 +1,1 @@
-find .. -name "*.class" -exec rm {} \;
+find ../bin -name "*.class" -exec rm {} \;

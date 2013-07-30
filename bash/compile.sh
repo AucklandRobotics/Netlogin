@@ -1,1 +1,1 @@
-find .. -name "*.java" -exec javac -cp ../src {} \;
+find .. -name "*.java" -exec javac -cp ../src -d ../bin {} \;

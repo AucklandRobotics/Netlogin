@@ -1,1 +1,1 @@
-java -cp ../src/. NetLogin
+java -cp ../bin/. NetLogin
